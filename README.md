@@ -1,4 +1,4 @@
-Replication files for "Dependence-Robust Inference Using Resampled Statistics". The files were coded for Python 3 and require the following dependencies: networkx, numpy, pandas, [powerlaw](https://github.com/jeffalstott/powerlaw), scipy, and [snap](https://snap.stanford.edu/snappy/index.html).
+Replication files for "Dependence-Robust Inference Using Resampled Statistics." The files were coded for Python 3 and require the following dependencies: networkx, numpy, pandas, [powerlaw](https://github.com/jeffalstott/powerlaw), scipy, and [snap](https://snap.stanford.edu/snappy/index.html).
 
 Contents:
 * RS\_module.py: Functions implementing our methods.
